@@ -1,5 +1,6 @@
 # devEnvironment
-Docker rep for laravel. Nginx + FPM8.1 + MySQL + Adminer + Redis
+Docker rep: Nginx + FPM8.1 + NODE + NPM + NVM + YARN + MySQL + Adminer + Redis
 
 # Install
-docker-compose up --build
+- docker-compose build
+- docker-compose up -d
